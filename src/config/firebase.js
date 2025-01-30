@@ -7,12 +7,13 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAVOpKDN7TI3ObFQiapYrVVpLd_9vMAmlA",
-  authDomain: "react-quiz-32a90.firebaseapp.com",
-  projectId: "react-quiz-32a90",
-  storageBucket: "react-quiz-32a90.appspot.com",
-  messagingSenderId: "636448735297",
-  appId: "1:636448735297:web:7ec2fa58a446bc3d48c6c0",
+  apiKey: "AIzaSyDqkAQz5AyltSpR-Lrd509rSm2-yLJRKwI",
+  authDomain: "learning-management-3e35c.firebaseapp.com",
+  projectId: "learning-management-3e35c",
+  storageBucket: "learning-management-3e35c.firebasestorage.app",
+  messagingSenderId: "418776229525",
+  appId: "1:418776229525:web:675317e7fb938824949d9c",
+  measurementId: "G-Y32TSF5R42"
 };
 // const firebaseConfig = {
 //   apiKey: import.meta.env.VITE_apiKey,
